@@ -1,15 +1,15 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Category Name 1 
+## Data Science 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### [Airbnb lodges: affordable neibourhoods](https://yzxiao.medium.com/airbnb-lodges-affordable-neighbourhoods-in-seattle-and-good-time-to-go-7d09ff95ed6d)
+<img src="images/project_airbnb.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### [Web app of Netflix original film analysis](https://nf-film-visualizations.herokuapp.com/)
+<img src="images/project_netflix_original_film.PNG?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
